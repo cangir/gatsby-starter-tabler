@@ -1,6 +1,6 @@
 {
   "name": "@cangir/gatsby-starter-tabler",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "private": true,
   "author": "Ahmet Cangir <contact@ahmetcangir.com>",
   "license": "MIT",
@@ -36,6 +36,6 @@
   "dependencies": {
     "@cangir/gatsby-theme-blog-core": "^0.1.0",
     "@cangir/gatsby-theme-page-core": "^0.1.0",
-    "@cangir/gatsby-theme-tabler": "^0.2.0"
+    "@cangir/gatsby-theme-tabler": "^0.2.1"
   }
 }
