@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.2.3](https://github.com/cangir/gatsby-starter-tabler/compare/@cangir/gatsby-starter-tabler@0.2.2...@cangir/gatsby-starter-tabler@0.2.3) (2020-05-12)
+
+**Note:** Version bump only for package @cangir/gatsby-starter-tabler
+
+
+
+
+
 ## [0.2.2](https://github.com/cangir/gatsby-starter-tabler/compare/@cangir/gatsby-starter-tabler@0.2.1...@cangir/gatsby-starter-tabler@0.2.2) (2020-05-12)
 
 **Note:** Version bump only for package @cangir/gatsby-starter-tabler
