@@ -1,6 +1,6 @@
 {
   "name": "@cangir/gatsby-starter-tabler",
-  "version": "0.1.2",
+  "version": "0.2.0",
   "private": true,
   "author": "Ahmet Cangir <contact@ahmetcangir.com>",
   "license": "MIT",
@@ -29,12 +29,15 @@
     "preview": "gatsby build && gatsby serve"
   },
   "devDependencies": {
-    "gatsby": "^2.21.21",
+    "gatsby": "^2.21.22",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
   },
   "dependencies": {
-    "@cangir/gatsby-theme-page-core": "^0.1.1",
-    "@cangir/gatsby-theme-tabler": "^0.2.2"
+    "@cangir/gatsby-theme-core": "^0.2.1",
+    "@cangir/gatsby-theme-page-core": "^0.2.1",
+    "@cangir/gatsby-theme-tabler": "^0.3.0",
+    "gatsby-plugin-typescript": "^2.4.2",
+    "typescript": "^3.8.3"
   }
 }
