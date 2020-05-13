@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.2.4](https://github.com/cangir/gatsby-starter-tabler/compare/@cangir/gatsby-starter-tabler@0.2.3...@cangir/gatsby-starter-tabler@0.2.4) (2020-05-13)
+
+
+### Bug Fixes
+
+* lint errors after eslint configuration commit ([00c8c66](https://github.com/cangir/gatsby-starter-tabler/commit/00c8c66ed13e4d5b1a5e9b6af70a31b751c7c0a3))
+
+
+
+
+
 ## [0.2.3](https://github.com/cangir/gatsby-starter-tabler/compare/@cangir/gatsby-starter-tabler@0.2.2...@cangir/gatsby-starter-tabler@0.2.3) (2020-05-12)
 
 **Note:** Version bump only for package @cangir/gatsby-starter-tabler

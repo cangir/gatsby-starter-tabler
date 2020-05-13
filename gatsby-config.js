@@ -1,4 +1,4 @@
-require(`dotenv`).config();
+require(`dotenv`).config()
 
 module.exports = {
   siteMetadata: {
@@ -52,4 +52,4 @@ module.exports = {
     `@cangir/gatsby-theme-page-core`,
     `@cangir/gatsby-theme-tabler`,
   ],
-};
+}
